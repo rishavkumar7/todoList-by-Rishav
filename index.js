@@ -16,7 +16,7 @@ let comments = [
     {
         "id": uuid(),
         "username": "Rishav",
-        "comment": "I'm looking for good mentorship and wonderful opportunities and in a way i'll be ready to give back to the community !!"
+        "comment": "I'm looking for good mentorship and wonderful opportunities in order to grow and contibute !!"
     },
     {
         "id": uuid(),
